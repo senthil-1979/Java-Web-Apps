@@ -1,6 +1,9 @@
 <html>
 <body>
-<h1> GOOD MORNING WELCOME TO DEVOPS </h1>
+<h1> GOOD MORNING WELCOME TO DEVOPS  </h1>
+
+<h1 style="background-color:DodgerBlue;">TODAY IS THRUSDAY </h1>
+
 <h1> Dear Senthilkumar Congratulations You Have Successfully Deployed Java Applications with version-1</h1>
 <img src="image/image.jpg" alt="logo"> 
 </body>
